@@ -1,0 +1,59 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+dist-ssr
+build
+
+# Database (local)
+*.db
+*.db-journal
+server/database/campus.db
+
+# Vercel
+.vercel
+
+# Railway
+.railway
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Misc
+.trae-html-share-packages
+.uploads
+
+# Legacy demo / docs artifacts
+campus-app/
+campus-prd/
+system-design/
+bug-report.html
+bugfix-schedule.png
+bugfix-trade.png
+campus-access.pdf
+campus-access_.pdf
+profile-page.png
+*.xlsx
