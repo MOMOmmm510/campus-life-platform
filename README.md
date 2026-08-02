@@ -6,6 +6,15 @@
 
 **GitHub**：https://github.com/MOMOmmm510/campus-life-platform
 
+## 🎬 功能演示视频
+
+点击观看完整功能演示（3 分 14 秒，含中文字幕）：**注册 → 登录 → 右上角用户名 → 个人中心 → 食堂点评 → 写评价 → AI 总结 → 二手收藏 → AI 描述 → 发布商品 → 失物招领**。
+
+- **永久下载链接**：[campus-demo.mp4](https://github.com/MOMOmmm510/campus-life-platform/releases/download/demo-video-v1/campus-demo.mp4)
+- **备用链接**：[raw.githubusercontent.com](https://raw.githubusercontent.com/MOMOmmm510/campus-life-platform/main/videos/campus-demo.mp4)
+
+> 视频由真实操作录制，AI 总结与 AI 描述均为真实调用 DeepSeek API 的完整流程。
+
 ## 📸 功能截图
 
 ### 首页
