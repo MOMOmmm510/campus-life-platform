@@ -4,7 +4,7 @@
 
 ## 🔗 仓库地址
 
-**Gitee 码云**：https://gitee.com/zxcvbnm159357/campus-life-platform
+**GitHub**：https://github.com/MOMOmmm510/campus-life-platform
 
 ## 📸 功能截图
 
@@ -94,7 +94,7 @@ campus/
 ### 1. 克隆仓库
 
 ```bash
-git clone https://gitee.com/zxcvbnm159357/campus-life-platform.git campus
+git clone https://github.com/MOMOmmm510/campus-life-platform.git campus
 cd campus
 ```
 
